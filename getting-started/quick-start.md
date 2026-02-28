@@ -28,7 +28,7 @@ Go to **Tickets** and click **New Ticket**. Fill in:
 
 - **Title** — A short description of the issue
 - **Description** — Details about the request
-- **Priority** — Low, Medium, High, or Urgent
+- **Priority** — Critical, High, Medium, or Low
 - **Assign to** — Pick a team member or leave unassigned
 
 That's it. Your first ticket is live. From here you can add comments, change status, attach files, and track the full history.

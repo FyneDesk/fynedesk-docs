@@ -34,7 +34,18 @@ Published knowledge base articles are accessible through your **Client Portal**.
 
 ## AI Integration
 
-When an agent uses AI Assist on a ticket, the AI searches your knowledge base for relevant articles and uses them to inform its suggestions. This means the more articles you publish, the better AI responses become.
+The knowledge base is deeply connected to FyneDesk's AI capabilities:
+
+- **AI Suggested Responses** use your articles to provide context-aware reply suggestions on tickets
+- **AI Enhanced Search** helps customers find the right article by understanding intent, not just keywords
+- **AI Written Articles** let you generate draft articles from ticket resolutions or from scratch, then edit and publish
+- **Customer Self-Service AI** on the client portal uses your articles to answer customer questions instantly
+
+The more articles you publish, the better all AI features perform across the platform.
+
+## Internal vs Published Articles
+
+Articles can be set as internal-only (visible only to your team) or published to your client portal for customers to browse. Internal articles are still used by AI Assist when suggesting responses to agents.
 
 ## Tips
 

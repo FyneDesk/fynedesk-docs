@@ -17,8 +17,8 @@ Every ticket includes:
 - **Ticket Number** — Auto-generated with your org prefix (e.g., SUP-001)
 - **Title** — Short summary of the issue
 - **Description** — Full details
-- **Status** — New, Active, Pending, Solved, Closed
-- **Priority** — Low, Medium, High, Urgent
+- **Status** — New, In Progress, On Hold, Resolved, Closed, Cancelled
+- **Priority** — Critical, High, Medium, Low
 - **Category** — Configurable categories (e.g., Billing, Technical, General)
 - **Ticket Type** — Request, Incident, or Question
 - **Assigned To** — The agent or team member responsible
@@ -29,13 +29,14 @@ Every ticket includes:
 
 Tickets follow this flow:
 
-**New** → **Active** → **Pending** (optional) → **Solved** → **Closed**
+**New** → **In Progress** → **On Hold** (optional) → **Resolved** → **Closed**
 
 - **New**: Just created. No one has started working on it.
-- **Active**: An agent is working on the issue.
-- **Pending**: Waiting on the requester or a third party.
-- **Solved**: A resolution has been provided.
+- **In Progress**: An agent is actively working on the issue.
+- **On Hold**: Waiting on the requester or a third party.
+- **Resolved**: A resolution has been provided.
 - **Closed**: Confirmed resolved. The ticket is complete.
+- **Cancelled**: The request was withdrawn or is no longer needed.
 
 ## Comments
 
@@ -63,4 +64,28 @@ FyneDesk tracks key timestamps for SLA measurement:
 - **Resolution Time** — How long until the ticket is solved
 - **Close Time** — When the ticket is fully closed
 
-Configure SLA targets in Settings to measure your team's performance.
+Configure SLA targets in Settings to measure your team's performance. Advanced SLA escalation rules automatically notify managers or reassign tickets when targets are at risk of being missed.
+
+## Ticket Catalog
+
+Create custom ticket catalog entries that define templates for common request types. When agents or customers create a ticket, they can select from the catalog to pre-fill fields and ensure consistent information is captured.
+
+## Pre-written Response Templates
+
+Save common replies as templates that agents can insert with a click. This speeds up response times for repetitive questions while keeping responses consistent across the team.
+
+## Webhooks
+
+Connect FyneDesk tickets to external tools via webhooks. Integrations with WhatsApp, Slack, Zapier, and custom endpoints let you:
+- Get notified in Slack when a new ticket is created
+- Send WhatsApp messages to customers when tickets are updated
+- Trigger automations in Zapier based on ticket events
+- Push ticket data to any custom endpoint
+
+## Data Import
+
+Migrating from another platform? FyneDesk supports importing your existing customer records and ticket history so you can switch without losing your data.
+
+## CSAT Surveys
+
+After tickets are resolved, customers can rate their experience through satisfaction surveys. Track satisfaction scores in your reporting dashboard to identify trends and areas for improvement.

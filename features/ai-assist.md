@@ -30,10 +30,22 @@ AI suggests a category and priority based on the ticket content. Useful for tria
 4. Review the output and edit as needed
 5. Apply it to the ticket
 
+### AI for Customers
+Customers interacting through the client portal get AI-powered assistance. The AI helps them find relevant knowledge base articles and provides instant answers to common questions before they need to submit a ticket.
+
+### AI Knowledge Base Articles
+AI can help draft knowledge base articles from scratch or from existing ticket resolutions. This saves time building out your help center.
+
+### AI Enhanced Search
+AI-powered search across your knowledge base delivers more relevant results by understanding the intent behind searches, not just keyword matching.
+
+### AI Assisted Ticket Routing
+Incoming tickets are automatically analyzed and routed to the right team or agent based on content, category, and historical patterns.
+
 ## Usage Limits
 
-AI Assist usage is tracked per organization to manage costs. Admins can view usage in Settings. The limits are generous for normal support workflows.
+AI Assist usage is tracked per organization. Admins can view current usage in Settings. Limits vary by plan and are designed to support normal support workflows.
 
 ## Privacy
 
-AI processing uses the ticket content and your organization's knowledge base articles. No data is shared across organizations. Your ticket data is not used to train AI models.
+No data is shared across organizations. Your ticket data is not used to train AI models.

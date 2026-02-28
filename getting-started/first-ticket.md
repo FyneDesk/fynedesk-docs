@@ -10,7 +10,7 @@ Walk through creating, managing, and resolving your first ticket in FyneDesk.
    - **Title** — A short summary of the issue (e.g., "Unable to access invoice portal")
    - **Description** — Full details about the request. Be as specific as possible.
    - **Category** — Select the type of request (e.g., Billing, Technical, General)
-   - **Priority** — Low, Medium, High, or Urgent
+   - **Priority** — Critical, High, Medium, or Low
    - **Ticket Type** — Request, Incident, or Question
    - **Assign to** — Pick a team member, or leave unassigned for now
    - **Requester** — Link this ticket to an existing contact, or leave blank for internal tickets
@@ -26,10 +26,11 @@ Scroll to the comment section and type a response. Comments create a full conver
 ### Changing Status
 Tickets move through these statuses:
 - **New** — Just created, no one has worked on it
-- **Active** — Someone is working on it
-- **Pending** — Waiting for the requester or a third party
-- **Solved** — Resolution provided
+- **In Progress** — Someone is actively working on it
+- **On Hold** — Waiting for the requester or a third party
+- **Resolved** — Resolution provided
 - **Closed** — Fully resolved and closed
+- **Cancelled** — Request withdrawn or no longer needed
 
 ### Attaching Files
 Click the attachment button to upload files (screenshots, documents, logs). Files are stored securely and linked to the ticket.
@@ -44,7 +45,7 @@ Click the AI button on any ticket to:
 
 When the issue is resolved:
 1. Add a final comment explaining the resolution
-2. Change the status to **Solved**
+2. Change the status to **Resolved**
 3. The requester (if linked to a contact) will be notified
 
 If the requester confirms the issue is resolved, change the status to **Closed**.
