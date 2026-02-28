@@ -1,6 +1,12 @@
+---
+title: FyneDesk Customer Portal - Free Self-Service Support Portal
+description: FyneDesk includes a free customer-facing support portal where customers can submit tickets, track requests, search knowledge base articles, and get AI-powered answers.
+keywords: customer portal, self-service portal, client portal, support portal, customer self-service, helpdesk portal, ticket submission portal
+---
+
 # Client Support Portal
 
-FyneDesk includes a client-facing support portal where your customers, clients, and end users can submit tickets, track their requests, and find answers in your knowledge base — without needing an internal account.
+FyneDesk includes a free customer-facing support portal where your customers, clients, and end users can submit tickets, track their requests, search your knowledge base, and get AI-powered answers without needing an internal account.
 
 ## What Customers Can Do
 

@@ -1,6 +1,12 @@
+---
+title: FyneDesk Quick Start Guide - Set Up Your Free Helpdesk in 5 Minutes
+description: Get started with FyneDesk in under 5 minutes. Sign up, configure your organization, invite your team, and create your first support ticket.
+keywords: FyneDesk quick start, helpdesk setup guide, how to start helpdesk, free helpdesk setup, getting started with FyneDesk
+---
+
 # Quick Start Guide
 
-Get up and running with FyneDesk in under 5 minutes.
+Get up and running with FyneDesk, a free helpdesk platform, in under 5 minutes.
 
 ## Step 1: Sign Up
 

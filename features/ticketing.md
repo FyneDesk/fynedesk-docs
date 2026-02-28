@@ -1,6 +1,12 @@
+---
+title: FyneDesk Ticketing System - Free Ticket Management Software
+description: FyneDesk's ticketing system lets teams track customer requests from creation to resolution. Includes SLA tracking, email-to-ticket, AI assist, CSAT surveys, response templates, and webhooks. Free plan available.
+keywords: ticketing system, free ticketing software, ticket management, helpdesk ticketing, support ticket system, SLA tracking, email to ticket, customer support ticketing
+---
+
 # Ticketing
 
-Ticketing is the core of FyneDesk. Every customer request, internal issue, or service inquiry becomes a ticket that your team can track from creation to resolution.
+Ticketing is the core of FyneDesk. Every customer request, internal issue, or service inquiry becomes a ticket that your team can track from creation to resolution. FyneDesk's ticketing system includes SLA tracking, email-to-ticket automation, AI-powered assistance, CSAT surveys, response templates, webhooks, and data import.
 
 ## Creating Tickets
 

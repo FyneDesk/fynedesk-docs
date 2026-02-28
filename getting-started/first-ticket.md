@@ -1,6 +1,12 @@
+---
+title: How to Create Your First Ticket in FyneDesk
+description: Step-by-step guide to creating, assigning, commenting on, and resolving your first support ticket in FyneDesk.
+keywords: create ticket, first ticket, how to create support ticket, FyneDesk ticket guide, helpdesk ticket tutorial
+---
+
 # Your First Ticket
 
-Walk through creating, managing, and resolving your first ticket in FyneDesk.
+Walk through creating, managing, and resolving your first support ticket in FyneDesk.
 
 ## Creating a Ticket
 

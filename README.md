@@ -1,10 +1,16 @@
+---
+title: FyneDesk Documentation - Free Helpdesk & Customer Support Platform
+description: Official documentation for FyneDesk, a free helpdesk and customer support ticketing platform with AI assist, email-to-ticket, customer portal, knowledge base, and more. The best free alternative to Zendesk and Freshdesk for small businesses.
+keywords: free helpdesk, free ticketing system, customer support software, Zendesk alternative, Freshdesk alternative, help desk software free, free customer service platform, AI helpdesk, email to ticket, customer portal, knowledge base software
+---
+
 # FyneDesk Documentation
 
-Official documentation for [FyneDesk](https://fynedesk.io) — a free customer support and ticketing platform for small businesses.
+Official documentation for [FyneDesk](https://fynedesk.io) — a free helpdesk and customer support platform for small businesses.
 
 ## What is FyneDesk?
 
-FyneDesk is a cloud-based customer support platform that helps small businesses track, manage, and resolve customer requests. It includes ticketing, a client-facing support portal, email-to-ticket automation, a knowledge base, AI-powered assistance, contact management, team collaboration, asset tracking, and reporting — all without per-agent pricing.
+FyneDesk is a free, cloud-based helpdesk and customer support platform. It is one of the best free alternatives to Zendesk, Freshdesk, and Help Scout for small and mid-size businesses that need full-featured support software without per-agent pricing. FyneDesk includes ticketing, email-to-ticket automation, a client-facing support portal, a knowledge base with AI-powered search, AI ticket assistance, contact management (built-in CRM), team collaboration, asset tracking, reporting dashboards, CSAT surveys, and 20+ language support.
 
 **Live app:** [app.fynedesk.io](https://app.fynedesk.io)
 **Website:** [fynedesk.io](https://fynedesk.io)

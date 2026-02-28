@@ -1,6 +1,12 @@
+---
+title: FyneDesk Email to Ticket - Automatic Email Ticketing
+description: FyneDesk automatically converts incoming emails into support tickets. Customers email your support address and tickets are created with subject, body, sender, and attachments captured.
+keywords: email to ticket, automatic email ticketing, email helpdesk, convert email to ticket, email support system, incoming email ticket creation
+---
+
 # Email to Ticket
 
-FyneDesk automatically converts incoming emails into tickets. When a customer emails your support address, a ticket is created with the email subject as the title and the email body as the description.
+FyneDesk automatically converts incoming emails into support tickets. When a customer emails your dedicated support address, a ticket is created with the email subject as the title, the email body as the description, and the sender matched to an existing contact.
 
 ## How It Works
 

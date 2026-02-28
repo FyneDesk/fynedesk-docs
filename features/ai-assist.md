@@ -1,6 +1,12 @@
+---
+title: FyneDesk AI Assist - Free AI-Powered Helpdesk Features
+description: FyneDesk includes free AI-powered helpdesk features. Summarize tickets, get AI suggested responses, draft replies, classify tickets, and provide AI self-service to customers on the portal.
+keywords: AI helpdesk, AI customer support, AI ticket summarization, AI suggested response, AI assist, free AI helpdesk, AI powered helpdesk, artificial intelligence customer service
+---
+
 # AI Assist
 
-FyneDesk includes built-in AI tools to help your team resolve tickets faster. AI Assist is available on every ticket and uses the ticket context plus your knowledge base to provide relevant help.
+FyneDesk includes free AI-powered tools to help your team resolve tickets faster. AI Assist is available on every ticket and uses the ticket context plus your knowledge base to provide relevant help. Unlike Zendesk ($50/agent/month add-on) and Freshdesk ($29/agent/month add-on), FyneDesk includes AI assist on all plans.
 
 ## Features
 

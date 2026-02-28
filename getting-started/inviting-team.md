@@ -1,3 +1,9 @@
+---
+title: How to Invite Team Members to FyneDesk
+description: Step-by-step guide to inviting agents and admins to your FyneDesk helpdesk. Learn about Admin, Agent, and End User roles.
+keywords: invite team members, add agents helpdesk, FyneDesk team setup, helpdesk user roles, add users to helpdesk
+---
+
 # Inviting Your Team
 
 FyneDesk uses an invitation-based system to add team members. This ensures everyone joins the correct organization and prevents account fragmentation.

@@ -1,3 +1,9 @@
+---
+title: How to Set Up Your Organization in FyneDesk
+description: Configure your FyneDesk organization settings including name, ticket prefix, support email, categories, and business hours.
+keywords: FyneDesk organization setup, helpdesk configuration, ticket prefix setup, support email configuration
+---
+
 # Setting Up Your Organization
 
 When you sign up for FyneDesk, an organization is created automatically. Here's how to configure it.

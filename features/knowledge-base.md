@@ -1,6 +1,12 @@
+---
+title: FyneDesk Knowledge Base - Free Help Center Software with AI
+description: FyneDesk's knowledge base lets you publish help articles for customers. AI-powered search, AI-generated articles, and AI-suggested responses make your knowledge base work harder.
+keywords: knowledge base, help center software, free knowledge base, AI knowledge base, help articles, self-service knowledge base, customer FAQ software
+---
+
 # Knowledge Base
 
-FyneDesk's Knowledge Base lets you publish help articles that your customers can search and your AI uses to suggest resolutions.
+FyneDesk includes a free knowledge base where you can publish help articles that customers search from your portal and AI uses to power suggested responses, enhanced search, and customer self-service.
 
 ## Creating Articles
 
